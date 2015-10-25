@@ -45,16 +45,7 @@ knit        : slidify::knit2slides
 
 ---
 
-## Example - Input
+## Example 
 
-<img src='./example.tiff' width="1000">
-
-
-
-
-
-
-
-
-
+<img src='./example.png' width="1000">
 
